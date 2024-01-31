@@ -1,0 +1,83 @@
+*{
+    font-family: lastica;
+    margin: 0;
+    border: border-box;
+}
+body{
+     
+    background: linear-gradient(90deg, rgba(68,32,99,1) 45%, rgba(29,50,99,1) 100%);
+}
+.navbar{
+    
+    /*background-color: black;*/
+    height: 135px;
+}
+.navlogo{
+   /* background-color: blue;*/
+    height: 155px;
+    width: 16%;
+}
+.navlogo :hover{
+    cursor: pointer;
+
+}
+
+
+
+
+
+.logo1{
+    height:110px;
+    position: relative;
+    left: 25px;
+    top: 25px;
+}
+
+
+.nav_bar_button{
+    float: right;
+    /*background-color: aquamarine;*/
+    position:relative;
+    bottom: 135px;
+    
+
+    
+}
+
+.nav_bar_button :hover{
+    box-shadow: 3px 5px 8px black;
+    cursor:pointer;
+}
+.button{
+    background: rgba(68,32,99,1) ;
+    border: 0cap;
+    color: white;
+    margin: 15px;
+    border-radius: 20px;
+    float: left;
+    position: relative;
+    width: auto;
+    padding: 15px 55px;
+    
+}
+ 
+
+.cartlogo{
+    margin-left: 30px;
+    margin-right: 35px;
+    margin-top: 5px;
+}
+
+.page1{
+    background: blueviolet;
+    height: 400px;
+    
+}
+#slogan{
+    color:aliceblue;
+    text-align: center;
+    position: relative;
+    right: px;
+    font-size: 45px;
+}
+ 
